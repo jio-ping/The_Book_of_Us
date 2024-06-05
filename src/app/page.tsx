@@ -1,3 +1,8 @@
+import { Avartar } from "@/components/Atoms";
 export default function Page() {
-  return <div>hi</div>;
+  return (
+    <div>
+      <Avartar />
+    </div>
+  );
 }
