@@ -1,8 +1,8 @@
-import { Avartar } from "@/components/Atoms";
+import { Avatar } from "@/components/Atoms";
 export default function Page() {
   return (
     <div>
-      <Avartar />
+      <Avatar />
     </div>
   );
 }
