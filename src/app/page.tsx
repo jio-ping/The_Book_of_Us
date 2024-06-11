@@ -1,8 +1,4 @@
-import { Avatar } from "@/components/Atoms";
+import { PasswordInput } from "@/components/Atoms";
 export default function Page() {
-  return (
-    <div>
-      <Avatar />
-    </div>
-  );
+  return <PasswordInput />;
 }

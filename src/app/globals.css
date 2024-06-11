@@ -3,6 +3,7 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  font-size: 10px;
 }
 
 /* 폰트 크기의 팽창을 방지합니다. */
